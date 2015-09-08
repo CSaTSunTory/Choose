@@ -1,6 +1,6 @@
 # Choose
 ###Example
-![Screenshot of  Example](ChooseTableview/1.gif)
+![Screenshot of  Example](Choose/1.gif)
 
 
 
